@@ -45,8 +45,8 @@ The NeuralProphet documentation website is hosted via GitHub Pages on www.neural
 ## Best practices
 We follow a set of guidelines and methodologies to ensure that code is of high quality, maintainable, and easily understandable by others who may contribute to the project:
 * [Typing](https://github.com/ourownstory/neural_prophet/wiki#typing): Use type annotations across the project to improve code readability and maintainability
-* [Tests and Code Coverage](https://github.com/ourownstory/neural_prophet/wiki#testing-and-code-coverage): Run tests using 'PyTest' to ensure that the code is functioning as expected.
-* [Continuous Integration](https://github.com/ourownstory/neural_prophet/wiki#continous-integration): Github Actions is used to set up a CI pipeline
+* [Tests and Code Coverage](https://github.com/ourownstory/neural_prophet/wiki#running-tests-with-pytest): Run tests using 'PyTest' to ensure that the code is functioning as expected.
+* [Continuous Integration](https://github.com/ourownstory/neural_prophet/wiki#setting-up-ci-with-github-actions): Github Actions is used to set up a CI pipeline
 * [Code Style](https://github.com/ourownstory/neural_prophet/wiki#style): Deploy Black, so there is no need to worry about code style and formatting.
 
 ## Prefixes and labels for pull requests and issues
