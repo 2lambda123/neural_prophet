@@ -30,7 +30,7 @@ jobs:
         run: |
           pytest tests/test_model_performance.py
       - name: Download metrics from main
-        uses: dawidd6/action-download-artifact@v2
+        uses: dawidd6/action-download-artifact@v6
         with:
           repo: ourownstory/neural_prophet
           branch: main
